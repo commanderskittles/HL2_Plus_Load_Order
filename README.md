@@ -1,2 +1,2 @@
 The mod Load order for My Vanilla Plus workshop collection 
-            Place File in HL2_Complete/cfg
+            Place workshop.txt in HL2_Complete/cfg
